@@ -1,0 +1,10 @@
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\bin\Debug\TapeMeasureFormula.exe.config
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\bin\Debug\TapeMeasureFormula.exe
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\bin\Debug\TapeMeasureFormula.pdb
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\obj\Debug\TapeMeasureFormula.csproj.AssemblyReference.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\obj\Debug\TapeMeasureFormula.frmMain.resources
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\obj\Debug\TapeMeasureFormula.Properties.Resources.resources
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\obj\Debug\TapeMeasureFormula.csproj.GenerateResource.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\obj\Debug\TapeMeasureFormula.csproj.CoreCompileInputs.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\obj\Debug\TapeMeasureFormula.exe
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab3_Halee_Tisler\TapeMeasureFormula\TapeMeasureFormula\obj\Debug\TapeMeasureFormula.pdb
